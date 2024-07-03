@@ -1,6 +1,6 @@
 ﻿namespace DataStructures
 {
-    public class InterSection
+    public class InterSectionClass
     {
         public static int[] InterSection(int[] nums1, int[] nums2)
         {
